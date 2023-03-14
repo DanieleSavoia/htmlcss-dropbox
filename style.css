@@ -284,5 +284,55 @@
       margin-top: 30px;
      
    }
+  .sezione-quattro {
+      margin: auto;
+      height: 600px;
+      width: auto;}
 
- 
+
+  .container-sezione-quattro {
+      width: 60%;
+      height: 90%;
+      margin: auto;
+      margin-top: 10px;
+      display: flex;
+      }
+
+
+  .box1sezione4 {
+      width: 60%;
+      height: 100%;
+      display: flex;
+      background-image: url(img/partner.png);
+      background-size: 630px;
+      background-repeat: no-repeat;}
+       
+  .box2sezione4 {
+      width: 50%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content:flex-start;
+      gap: 40px;}
+
+  .miniboxsezione4 {
+      position: relative;
+      margin-left: -30px;
+      margin: auto;
+      width: 80%;
+      height: 50%;
+      display: flex;
+      flex-direction: column;
+      font-size: 26px;
+      gap: 30px;}
+
+  .paragrafo4 {
+      font-size: 20px;
+        }  
+  .white-button4 {
+      width: 50%;
+      
+      border: 1px solid black;
+      padding: 5px 0px 5px 0px;
+      display: flex;
+      justify-content: center;}
