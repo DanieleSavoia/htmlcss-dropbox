@@ -186,7 +186,13 @@
       flex-direction: column;
       gap: 25px;}
 
-
+  .divisori { 
+      display: flex;
+      gap: 6px;
+     }
+  .grigio { 
+      color: #889395;
+     }
 
   .sectionblock3  { 
       width: 100%;
@@ -744,7 +750,6 @@
     justify-content: center;
     width: 25px;
     height: 25px;
-    rotate: 90deg;
     padding: 10px 10px 10px 10px;
     } 
     
